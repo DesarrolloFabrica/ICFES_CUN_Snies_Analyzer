@@ -1,0 +1,7 @@
+[server]
+# OneDrive + watchdog en Windows puede romper el hot-reload; se desactiva el watcher.
+fileWatcherType = "none"
+headless = true
+
+[browser]
+gatherUsageStats = false
