@@ -46,3 +46,4 @@ ICFES_CUN_Snies_Analyzer/
 - Python 3.11+
 - Dependencias en `snies-analyzer/requirements.txt`
 - Word o LibreOffice (opcional, para PDF)
+
